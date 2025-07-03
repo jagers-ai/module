@@ -5,8 +5,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Holy Habit Team",
-            "email": "dev@holyhabit.com"
+            "name": "Holy OAuth Contributors",
+            "homepage": "https://github.com/jagers-ai/module"
         }
     ],
     "minimum-stability": "alpha",
