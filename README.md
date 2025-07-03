@@ -8,7 +8,7 @@ Holy Habit 프로젝트의 재사용 가능한 모듈 모음입니다.
 - **패키지명**: `holyhabit/oauth`
 - **설명**: Google OAuth 로그인 모듈 (PKCE 지원)
 - **버전**: v0.1.0-alpha
-- **문서**: [packages/holy-oauth/README.md](packages/holy-oauth/README.md)
+- **문서**: [packages/oauth/README.md](packages/oauth/README.md)
 
 ## 🚀 설치 방법
 
